@@ -58,10 +58,22 @@ const payload_map = [
         author: "sleirsgoevy, john-tornblom, EchoStretch, buzzer-re, idlesauce, BestPig, LightningMods, zecoxao",
         projectSource: "https://github.com/EchoStretch/ps4jb-payloads/",
         binarySource: "https://github.com/EchoStretch/ps4jb-payloads/actions/runs/17254240982",
-        version: "1.5",
+        version: "1.13",
         supportedFirmwares: ["3.", "4.", "5."],
         toPort: 9021
-    },    {
+    },    
+    {
+        displayTitle: "shadowmountplus",
+        description: "Backport enabler",
+        fileName: "shadowmountplus.elf",
+        author: "sleirsgoevy, john-tornblom, EchoStretch, buzzer-re, idlesauce, BestPig, LightningMods, zecoxao",
+        projectSource: "https://github.com/EchoStretch/ps4jb-payloads/",
+        binarySource: "https://github.com/EchoStretch/ps4jb-payloads/actions/runs/17254240982",
+        version: "1.7beta2",
+        supportedFirmwares: ["3.", "4.", "5."],
+        toPort: 9021
+    }, 
+	{
         displayTitle: "Byepervisor HEN",
         description: "FPKG enabler",
         fileName: "byepervisor.elf",
