@@ -84,6 +84,17 @@ const payload_map = [
         supportedFirmwares: ["3.", "4.", "5."],
         toPort: 9021
     }, 
+    {
+        displayTitle: "ghost-tooth",
+        description: "BT-audio-utility",
+        fileName: "ghost-toothAPI.elf",
+        author: "sleirsgoevy, john-tornblom, EchoStretch, buzzer-re, idlesauce, BestPig, LightningMods, zecoxao",
+        projectSource: "https://github.com/EchoStretch/ps4jb-payloads/",
+        binarySource: "https://github.com/EchoStretch/ps4jb-payloads/actions/runs/17254240982",
+        version: "0.0.1",
+        supportedFirmwares: ["3.", "4.", "5."],
+        toPort: 9021
+    }, 
 	{
         displayTitle: "Byepervisor HEN",
         description: "FPKG enabler",
