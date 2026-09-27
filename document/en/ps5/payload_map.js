@@ -40,17 +40,17 @@ const payload_map = [
         version: "2.4b",
         toPort: 9021
     },
-    {
-        displayTitle: "ps5-kstuff",
-        description: "FPKG enabler",
-        fileName: "kstuff.elf",
-        author: "sleirsgoevy, john-tornblom, EchoStretch, buzzer-re, idlesauce, BestPig, LightningMods, zecoxao",
-        projectSource: "https://github.com/EchoStretch/ps4jb-payloads/",
-        binarySource: "https://github.com/EchoStretch/ps4jb-payloads/actions/runs/17254240982",
-        version: "1.5",
-        supportedFirmwares: ["3.", "4.", "5."],
-        toPort: 9021
-    },
+    // {
+    //     displayTitle: "ps5-kstuff",
+    //     description: "FPKG enabler",
+    //     fileName: "kstuff.elf",
+    //     author: "sleirsgoevy, john-tornblom, EchoStretch, buzzer-re, idlesauce, BestPig, LightningMods, zecoxao",
+    //     projectSource: "https://github.com/EchoStretch/ps4jb-payloads/",
+    //     binarySource: "https://github.com/EchoStretch/ps4jb-payloads/actions/runs/17254240982",
+    //     version: "1.5",
+    //     supportedFirmwares: ["3.", "4.", "5."],
+    //     toPort: 9021
+    // },
     {
         displayTitle: "ps5-kstuff-drakmor",
         description: "FPKG enabler",
@@ -70,6 +70,17 @@ const payload_map = [
         projectSource: "https://github.com/EchoStretch/ps4jb-payloads/",
         binarySource: "https://github.com/EchoStretch/ps4jb-payloads/actions/runs/17254240982",
         version: "1.7beta2",
+        supportedFirmwares: ["3.", "4.", "5."],
+        toPort: 9021
+    }, 
+    {
+        displayTitle: "payload-manager",
+        description: "payload-manager-utility",
+        fileName: "pldmgr_v0.5.1.elf",
+        author: "sleirsgoevy, john-tornblom, EchoStretch, buzzer-re, idlesauce, BestPig, LightningMods, zecoxao",
+        projectSource: "https://github.com/EchoStretch/ps4jb-payloads/",
+        binarySource: "https://github.com/EchoStretch/ps4jb-payloads/actions/runs/17254240982",
+        version: "0.5.1",
         supportedFirmwares: ["3.", "4.", "5."],
         toPort: 9021
     }, 
