@@ -54,7 +54,7 @@ const payload_map = [
     {
         displayTitle: "ps5-kstuff-drakmor",
         description: "FPKG enabler",
-        fileName: "kstuff-1.13-fpkg-dr-test4.elf",
+        fileName: "kstuff-1.13-fpkg-dr-test5.elf",
         author: "sleirsgoevy, john-tornblom, EchoStretch, buzzer-re, idlesauce, BestPig, LightningMods, zecoxao",
         projectSource: "https://github.com/EchoStretch/ps4jb-payloads/",
         binarySource: "https://github.com/EchoStretch/ps4jb-payloads/actions/runs/17254240982",
@@ -81,17 +81,6 @@ const payload_map = [
         projectSource: "https://github.com/EchoStretch/ps4jb-payloads/",
         binarySource: "https://github.com/EchoStretch/ps4jb-payloads/actions/runs/17254240982",
         version: "0.5.1",
-        supportedFirmwares: ["3.", "4.", "5."],
-        toPort: 9021
-    }, 
-    {
-        displayTitle: "ghost-tooth",
-        description: "BT-audio-utility",
-        fileName: "ghost-toothAPI.elf",
-        author: "sleirsgoevy, john-tornblom, EchoStretch, buzzer-re, idlesauce, BestPig, LightningMods, zecoxao",
-        projectSource: "https://github.com/EchoStretch/ps4jb-payloads/",
-        binarySource: "https://github.com/EchoStretch/ps4jb-payloads/actions/runs/17254240982",
-        version: "0.0.1",
         supportedFirmwares: ["3.", "4.", "5."],
         toPort: 9021
     }, 
