@@ -74,6 +74,17 @@ const payload_map = [
         toPort: 9021
     }, 
     {
+        displayTitle: "elf-arsenal",
+        description: "utility",
+        fileName: "elf-arsenal.elf",
+        author: "sleirsgoevy, john-tornblom, EchoStretch, buzzer-re, idlesauce, BestPig, LightningMods, zecoxao",
+        projectSource: "https://github.com/EchoStretch/ps4jb-payloads/",
+        binarySource: "https://github.com/EchoStretch/ps4jb-payloads/actions/runs/17254240982",
+        version: "?",
+        supportedFirmwares: ["3.", "4.", "5."],
+        toPort: 9021
+    }, 
+	{
         displayTitle: "payload-manager",
         description: "payload-manager-utility",
         fileName: "pldmgr_v0.5.1.elf",
