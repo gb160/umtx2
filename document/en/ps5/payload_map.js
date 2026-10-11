@@ -54,7 +54,7 @@ const payload_map = [
     {
         displayTitle: "ps5-kstuff-drakmor",
         description: "FPKG enabler",
-        fileName: "kstuff-1.13-fpkg-dr-test5.elf",
+        fileName: "kstuff-1.13-fpkg-dr-test6.elf",
         author: "sleirsgoevy, john-tornblom, EchoStretch, buzzer-re, idlesauce, BestPig, LightningMods, zecoxao",
         projectSource: "https://github.com/EchoStretch/ps4jb-payloads/",
         binarySource: "https://github.com/EchoStretch/ps4jb-payloads/actions/runs/17254240982",
